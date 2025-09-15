@@ -1,0 +1,17 @@
+:root {
+  /* Color */
+  --yellow: hsl(47°, 88%, 63%);
+  --gray-950: hsl(0°, 0%, 7%);
+  --gray-500: hsl(0°, 0%, 42%);
+  --white: hsl(0°, 0%, 100%);
+
+
+  /* font-family */
+  --ff-base: "Figtree", sans-serif;
+
+ /* Typography Preset*/
+--fs-1: 1.5rem;      /* Extra Bold */
+--fs-2:1rem;        /* Medium */
+--fs-2: 0,875rem    /* Medium/Extra Bold */
+
+}
