@@ -38,5 +38,6 @@ In this project I learned and practiced:
   flex-direction: column;
   gap: var(--space-150); /* 12px */
 }
+```
 
 **Have fun building!** 🚀
