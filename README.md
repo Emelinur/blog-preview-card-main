@@ -13,8 +13,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ![Final result screenshot](./screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/your-solution-link)  
-- Live Site URL: [Add live site URL here](https://your-live-site-link.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-main-qpc0Rua0FG)  
+- Live Site URL: [Add live site URL here](https://emelinur.github.io/blog-preview-card-main/)
 
 ## My process
 
