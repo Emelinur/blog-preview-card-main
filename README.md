@@ -32,12 +32,5 @@ In this project I learned and practiced:
 - Reinforced my understanding of `flex: 1`.  
 - The importance of defining a design system with `:root` variables for spacing, colors, and typography.  
 
-```css
-.card-content {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-150); /* 12px */
-}
-```
 
 **Have fun building!** 🚀
