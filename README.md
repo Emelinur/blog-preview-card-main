@@ -22,7 +22,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Semantic HTML5 markup  
 - CSS custom properties (`:root`)  
 - Flexbox  
-- CSS Grid (if used)  
 - Mobile-first workflow  
 
 ### What I learned
